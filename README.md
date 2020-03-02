@@ -4,6 +4,7 @@ This project included  MVVM architecture with ** RxJava** , Room database for sa
 
 Features:
 Fetch weather information from OpenWeatherMap api by current location , save and set it to view.
+
 1-Pull down to add new item from api
 
 2-Swipe left or right to remove an item from db
