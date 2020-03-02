@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Morteza Rahimi Accenture Task</string>
+    <string name="weather_history">Weather History</string>
+    <string name="temperature">Temperature:</string>
+    <string name="date">Date:</string>
+    <string name="more_details">More Details</string>
+    <string name="ok">OK</string>
+    <string name="permission_info">Your location needed to show your current temperature.</string>
+    <string name="pull_down_to_load_your_temperature">Pull down to load your temperature.</string>
+</resources>
